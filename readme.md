@@ -11,6 +11,8 @@ Schedule decals to be uploaded at a specified time
 # How it works
 The script uses a simple setTimeout to specify the time. say you wanted to upload at 9pm, and its 5 pm, you just convert 4 hours to miliseconds and it will upload in 4 hours.
 
+MAKE SURE THE FINAL IMAGE IS IN THE SAME DIRECTORY OF THE INDEX.JS OR IT WILL NOT UPLOAD!!!
+
 
 made by stiizzy cat
 
