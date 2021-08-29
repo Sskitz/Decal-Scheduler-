@@ -1,5 +1,5 @@
 # Decal Scheduler
-Schedule decals bot be uploaded
+Schedule decals to be uploaded at a specified time
 
 # requirements
 + Noblox.js installed
