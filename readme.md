@@ -2,9 +2,10 @@
 Schedule decals to be uploaded at a specified time
 
 # requirements
-+ Noblox.js installed
-+ Prompt-Sync installed
-+ Node js installed
++ Noblox.js installed  -----------> https://noblox.js.org/
++ Prompt-Sync installed ----------> https://www.npmjs.com/package/prompt-sync
++ Node js installed -----------> https://nodejs.org/en/
++ A good code editor like vscode or repl.it ---------> https://code.visualstudio.com/ , ---------> https://replit.com/
 + And finaly you must have an alt acc. dont use your main Acc it can get banned. [if doing bypasses]
 
 # How it works
